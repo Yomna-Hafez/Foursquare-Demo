@@ -34,6 +34,8 @@ public class MainActivity extends Activity {
         // call foursqaure api and get POI
         // then view retrieved data in anaother screen
     };
+
+
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
